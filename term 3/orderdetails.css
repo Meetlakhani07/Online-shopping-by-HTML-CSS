@@ -1,0 +1,52 @@
+        .container {
+            max-width: 960px;
+            margin: 20px auto;
+            padding: 20px;
+        }
+
+        /* Order Details Page Styles */
+
+        h1 {
+            text-align: center;
+        }
+
+        .order-info {
+            margin-top: 20px;
+        }
+
+        .order-item {
+            margin-bottom: 20px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #ccc;
+        }
+
+        .order-item img {
+            width: 100px;
+            margin-right: 20px;
+        }
+
+        .order-item-info {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        .order-item-info h2 {
+            margin: 0;
+        }
+
+        .order-item-info p {
+            margin: 5px 0;
+        }
+
+        .order-total {
+            margin-top: 20px;
+            text-align: right;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
